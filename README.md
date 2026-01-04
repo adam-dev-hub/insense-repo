@@ -26,7 +26,7 @@ npm run dev
 
 * Website: https://farjeoui-portfolio.vercel.app
 * Github: [@adam-dev-hub](https://github.com/adam-dev-hub)
-* LinkedIn: [@Adam Al Farjeoui](www.linkedin.com/in/adam-al-farjeoui)
+* LinkedIn: [@Adam Al Farjeoui](https://linkedin.com/in/adam-al-farjeoui)
 
 ## Show your support
 
