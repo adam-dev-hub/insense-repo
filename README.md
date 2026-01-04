@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to InSense 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="www.farjeoui-portfolio.vercel.app/projects/Insense-IoT" target="_blank">
+  <a href="https://farjeoui-portfolio.vercel.app/projects/Insense-IoT" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
 </p>
@@ -24,9 +24,9 @@ npm run dev
 
 👤 **Adam Farjeoui with Rania Haddaji**
 
-* Website: www.farjeoui-portfolio.vercel.app
+* Website: https://farjeoui-portfolio.vercel.app
 * Github: [@adam-dev-hub](https://github.com/adam-dev-hub)
-* LinkedIn: [@Adam Al Farjeoui](https://linkedin.com/in/Adam Al Farjeoui)
+* LinkedIn: [@Adam Al Farjeoui](www.linkedin.com/in/adam-al-farjeoui)
 
 ## Show your support
 
