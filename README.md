@@ -13,13 +13,17 @@
 ```sh
 npm install
 ```
-
-## Usage
+## Test with Expo Go
 
 ```sh
-npm run dev
+npm run start 
 ```
 
+## Test on Android device using devtools (AndroidSDK required)
+
+```sh
+npx expo run:android
+```
 ## Author
 
 👤 **Adam Farjeoui with Rania Haddaji**
