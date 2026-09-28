@@ -1,9 +1,9 @@
-<table>
+<table border="0" cellpadding="0" cellspacing="0" style="border: 0; border-collapse: collapse;">
   <tr>
-    <td width="180" align="center" valign="middle">
+    <td width="180" align="center" valign="middle" style="border: 0;">
       <img src="assets/InSense_logo.png" alt="InSense logo" width="140" />
     </td>
-    <td valign="middle">
+    <td valign="middle" style="border: 0;">
       <h1>InSense</h1>
       <p>Smart livestock monitoring through connected biometric and GPS data.</p>
       <p>

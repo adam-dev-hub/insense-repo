@@ -43,3 +43,6 @@ yarn-error.*
 
 # asset images
 /assets
+!/assets/
+/assets/*
+!/assets/InSense_logo.png
