@@ -1,9 +1,9 @@
-<table border="0" cellpadding="0" cellspacing="0" style="border: 0; border-collapse: collapse;">
+<table border="0" bordercolor="transparent" cellpadding="0" cellspacing="0" style="border: 0 !important; border-color: transparent !important; border-collapse: collapse;">
   <tr>
-    <td width="180" align="center" valign="middle" style="border: 0;">
+    <td width="180" align="center" valign="middle" style="border: 0 !important; border-color: transparent !important;">
       <img src="assets/InSense_logo.png" alt="InSense logo" width="140" />
     </td>
-    <td valign="middle" style="border: 0;">
+    <td valign="middle" style="border: 0 !important; border-color: transparent !important;">
       <h1>InSense</h1>
       <p>Smart livestock monitoring through connected biometric and GPS data.</p>
       <p>
@@ -197,7 +197,3 @@ The project was developed under the academic guidance of:
 
 - **Dr. Afef Saidi** — [LinkedIn](https://tn.linkedin.com/in/afef-saidi)
 - **Dr. Meriam Dhouibi** — [LinkedIn](https://www.linkedin.com/in/meriem-dhouibi-12a459183)
-
-## License
-
-This repository is a project prototype and architecture study. Contact the author before reusing the implementation in a production livestock-monitoring or medical context.
