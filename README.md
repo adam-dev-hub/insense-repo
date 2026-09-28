@@ -1,13 +1,19 @@
-<div align="center">
-  <img src="assets/icon.png" alt="InSense logo" width="140" />
-  <h1>InSense</h1>
-  <p>Smart livestock monitoring through connected biometric and GPS data.</p>
-  <p>
-    <a href="https://farjeoui-portfolio.vercel.app/projects/Insense-IoT">Portfolio project</a>
-    ·
-    <a href="https://github.com/adam-dev-hub">GitHub profile</a>
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="180" align="center" valign="middle">
+      <img src="assets/InSense_logo.png" alt="InSense logo" width="140" />
+    </td>
+    <td valign="middle">
+      <h1>InSense</h1>
+      <p>Smart livestock monitoring through connected biometric and GPS data.</p>
+      <p>
+        <a href="https://github.com/adam-dev-hub">Adam's GitHub</a>
+        ·
+        <a href="https://github.com/raniahaddajipro-ux">Rania's GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Overview
 
@@ -178,13 +184,19 @@ Example payload fields:
 
 InSense was designed as an IoT architecture study for intelligent agriculture. Miniaturised, low-power SiP/SoC hardware is represented by an ESP32 simulation so the project can demonstrate the complete data path from sensing and communication to mobile supervision.
 
-## Author
+## Authors
 
-**Adam Farjeoui**
+This is a collaborative project by **Adam Farjeoui** and **Rania Haddaji**.
 
-- Website: [farjeoui-portfolio.vercel.app](https://farjeoui-portfolio.vercel.app)
-- GitHub: [@adam-dev-hub](https://github.com/adam-dev-hub)
-- LinkedIn: [Adam Al Farjeoui](https://linkedin.com/in/adam-al-farjeoui)
+- **Adam Farjeoui** — [Website](https://farjeoui-portfolio.vercel.app) · [GitHub](https://github.com/adam-dev-hub) · [LinkedIn](https://linkedin.com/in/adam-al-farjeoui)
+- **Rania Haddaji** — [GitHub](https://github.com/raniahaddajipro-ux) · [LinkedIn](https://tn.linkedin.com/in/rania-haddaji-69357129b)
+
+## Academic Supervision
+
+The project was developed under the academic guidance of:
+
+- **Dr. Afef Saidi** — [LinkedIn](https://tn.linkedin.com/in/afef-saidi)
+- **Dr. Meriam Dhouibi** — [LinkedIn](https://www.linkedin.com/in/meriem-dhouibi-12a459183)
 
 ## License
 
